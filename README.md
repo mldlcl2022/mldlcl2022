@@ -1,6 +1,6 @@
-## Hi there 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/09f35137-eb53-47cd-b021-b82406032d2e" width="1280" height="400"/>
+  ## Hi there 👋
+  <img src="https://github.com/user-attachments/assets/116a1858-5ae7-4756-b323-e0bc02fb8f9d" width="1280" height="400"/>
 </div>
 
 
