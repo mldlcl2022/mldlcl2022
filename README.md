@@ -1,4 +1,22 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/09f35137-eb53-47cd-b021-b82406032d2e" width="1280" height="500"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **mldlcl2022/mldlcl2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/user-attachments/assets/09f35137-eb53-47cd-b021-b82406032d2e" width="1280" height="500"/>
