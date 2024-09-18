@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Chan Lee(이 찬). 🇰🇷
 As a master's student studying AI, I manage this GitHub to document everything I'm learning.</br>
 Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
 <div align="center"> 📫 mldlcl2022@gmail.com 📫 </div>
