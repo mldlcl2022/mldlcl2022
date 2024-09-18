@@ -9,7 +9,7 @@
   Didn't have a dime but I always had a vision</br>
   Always had high, high hopes</br>
   ···</br>
-  - Panic! At The Disco - High Hopes -
+  ⭐ Panic! At The Disco - High Hopes ⭐
 </div>
 
 
