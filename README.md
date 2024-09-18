@@ -1,7 +1,6 @@
 ## Hi there 👋
-I'm a MS student studying AI.</br>
-I'm managing this Github to document what I learn during my studies.</br>
-If there are any issue, feel free to contact me via the e-mail below. ⬇️
+As a master's student studying AI, I manage this GitHub to document everything I'm learning.</br>
+If you have any questions or concerns, feel free to contact me via the email below. ⬇️</br>
 </br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dc526542-89d6-47fe-9455-b9455c67e893" width="750" height="400"/>
