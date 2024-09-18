@@ -3,8 +3,11 @@
   <img src="https://github.com/user-attachments/assets/dc526542-89d6-47fe-9455-b9455c67e893" width="750" height="400"/>
 </div>
 <div align="center">
-  Shoothing for the stars when i couldn't make a killing</br>
-  Didn't have a dime but I always had a vision
+  Had to have high, high hopes for a living</br>
+  Shooting for the stars when I couldn't make a killing</br>
+  Didn't have a dime but I always had a vision</br>
+  Always had high, high hopes</br>
+  - Panic! At The Disco - High Hopes -
 </div>
 
 
