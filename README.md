@@ -11,7 +11,10 @@
   ⭐ Panic! At The Disco - High Hopes ⭐
 </div>
 
-
+## Hi there 👋
+I'm a MS student studying AI.</br>
+I'm managing this Github to document what I learn during my studies.</br>
+If there are any issue, feel free to contact me via the e-mail below. ⬇️
 
 
 
