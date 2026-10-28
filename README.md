@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td nowrap>2026.09</td>
-      <td nowrap align="center">KTCP</td>
+      <td nowrap align="center">KTCP 2026, 32(9)</td>
       <td nowrap align="center">
         Korean<br>
         Journal
@@ -83,7 +83,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/mldlcl2022/ECG_SSML">
           <img src="https://cdn.simpleicons.org/github" width="20" height="20">
         </a>
       </td>
