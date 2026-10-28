@@ -6,6 +6,9 @@
 <p>
   I'm currently seeking new career opportunities and looking forward to the next chapter of my journey.
 </p>
+<p>
+  I have explored a broad range of AI research areas, including multimodal learning, explainable AI (XAI), self-supervised learning, self-supervised multimodal learning, time-series analysis, anomaly detection, object detection, and object tracking.
+</p>
 
 <br>
 
@@ -86,6 +89,21 @@
         <a href="https://github.com/mldlcl2022/ECG_SSML">
           <img src="https://cdn.simpleicons.org/github" width="20" height="20">
         </a>
+      </td>
+    </tr>
+    <tr>
+      <td nowrap>2026.09</td>
+      <td nowrap align="center">KTCP 2026, 32(9)</td>
+      <td nowrap align="center">
+        Korean<br>
+        Journal
+      </td>
+      <td>
+        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381133">
+          The Image Transformation Method for ECG Signals: Proposal and Performance Comparison with Time-Series Representations
+        </a>
+      </td>
+      <td align="center">
       </td>
     </tr>
   </tbody>
