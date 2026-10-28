@@ -20,6 +20,7 @@
       <th style="padding:10px;">Degree</th>
       <th style="padding:10px;">Major</th>
       <th style="padding:10px;">University</th>
+      <th style="padding:10px;">Lab</th>
     </tr>
   </thead>
   <tbody>
@@ -28,12 +29,16 @@
       <td style="padding:10px;" align="center">M.S.</td>
       <td style="padding:10px;">Artificial Intelligence</td>
       <td style="padding:10px;">Pusan National University (PNU)</td>
+      <td style="padding:10px;">
+        <a href="https://www.k-medai.com/">Medical AI Lab (MAIL)</a>
+      </td>
     </tr>
     <tr>
       <td style="padding:10px;">2015.03~2022.02</td>
       <td style="padding:10px;" align="center">B.S.</td>
       <td style="padding:10px;">Statistics</td>
       <td style="padding:10px;">Changwon National University (CWNU)</td>
+      <td style="padding:10px;" align="center">-</td>
     </tr>
   </tbody>
 </table>
@@ -103,8 +108,7 @@
           The Image Transformation Method for ECG Signals: Proposal and Performance Comparison with Time-Series Representations
         </a>
       </td>
-      <td align="center">
-      </td>
+      <td align="center">-</td>
     </tr>
   </tbody>
 </table>
