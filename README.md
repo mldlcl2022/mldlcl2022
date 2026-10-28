@@ -9,6 +9,9 @@
 <p>
   I have explored a broad range of AI research areas, including multimodal learning, explainable AI (XAI), self-supervised learning, self-supervised multimodal learning, time-series analysis, anomaly detection, object detection, and object tracking.
 </p>
+<p>
+  I hope to leverage my diverse AI background to develop practical solutions that make a meaningful impact.
+</p>
 
 <br>
 
@@ -59,11 +62,11 @@
   <tbody>
     <tr>
       <td nowrap>2026.09</td>
-      <td nowrap align="center">
+      <td nowrap>
         MICCAI 2026<br>
-        <strong>Early Accept</strong>
+        <strong>Early Accept</strong> (within Top 9% of submissions)
       </td>
-      <td nowrap align="center">
+      <td nowrap>
         International<br>
         Conference
       </td>
@@ -80,8 +83,8 @@
     </tr>
     <tr>
       <td nowrap>2026.09</td>
-      <td nowrap align="center">KTCP 2026, 32(9)</td>
-      <td nowrap align="center">
+      <td nowrap>KTCP 2026, 32(9)</td>
+      <td nowrap>
         Korean<br>
         Journal
       </td>
@@ -98,14 +101,49 @@
     </tr>
     <tr>
       <td nowrap>2026.09</td>
-      <td nowrap align="center">KTCP 2026, 32(9)</td>
-      <td nowrap align="center">
+      <td nowrap>KTCP 2026, 32(9)</td>
+      <td nowrap>
         Korean<br>
         Journal
       </td>
       <td>
         <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381133">
           The Image Transformation Method for ECG Signals: Proposal and Performance Comparison with Time-Series Representations
+        </a>
+      </td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td nowrap>2024.12</td>
+      <td nowrap>
+        KSC 2024<br>
+        <strong>Outstanding Presentation Paper Award</strong>
+      </td>
+      <td nowrap>
+        Korean<br>
+        Conference
+      </td>
+      <td>
+        <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041844">
+          Effectiveness of Transforming ECG Signal into Image with Image-Based Pre-trained Model
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mldlcl2022/ES2I">
+          <img src="https://cdn.simpleicons.org/github" width="20" height="20">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td nowrap>2024.06</td>
+      <td nowrap>KCC 2024</td>
+      <td nowrap>
+        Korean<br>
+        Conference
+      </td>
+      <td>
+        <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862112">
+          Effects of Soft Label and Proposing Regression Smoothing on Molecular Graph Neural Networks
         </a>
       </td>
       <td align="center">-</td>
