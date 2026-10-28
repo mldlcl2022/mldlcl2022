@@ -7,6 +7,8 @@
   I'm currently seeking new career opportunities and looking forward to the next chapter of my journey.
 </p>
 
+<br>
+
 <h3>🧑‍🎓 Education</h3>
 <table style="width:100%; border-collapse:collapse; text-align:left; font-family:Arial, sans-serif;">
   <thead>
@@ -32,6 +34,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 
 <h3>📄 Publications</h3>
 <table width="100%">
@@ -86,6 +90,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 
 <h3>🧑‍💻 Experience</h3>
 <table style="width:100%; border-collapse:collapse; text-align:left; font-family:Arial, sans-serif;">
