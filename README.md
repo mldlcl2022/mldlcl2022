@@ -23,7 +23,8 @@
       <td style="padding:10px;" align="center">M.S.</td>
       <td style="padding:10px;">Artificial Intelligence</td>
       <td style="padding:10px;">Pusan National University (PNU)</td>
-    </tr>    <tr>
+    </tr>
+    <tr>
       <td style="padding:10px;">2015.03~2022.02</td>
       <td style="padding:10px;" align="center">B.S.</td>
       <td style="padding:10px;">Statistics</td>
@@ -46,7 +47,7 @@
   <tbody>
     <tr>
       <td nowrap>2026.09</td>
-      <td nowrap>
+      <td nowrap align="center">
         MICCAI 2026<br>
         <strong>Early Accept</strong>
       </td>
@@ -57,6 +58,24 @@
       <td>
         <a href="https://papers.miccai.org/miccai-2026/paper/6146_paper.pdf">
           Cross-Modal Concept Transfer: From ECG Signals to Images for Explainable Disease Prediction
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mldlcl2022/CMCT">
+          <img src="https://cdn.simpleicons.org/github" width="20" height="20">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td nowrap>2026.09</td>
+      <td nowrap align="center">KTCP</td>
+      <td nowrap align="center">
+        Korean<br>
+        Journal
+      </td>
+      <td>
+        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381127">
+          Multi-View Self-Supervised Learning Method Comparison with ECG Signals and Images
         </a>
       </td>
       <td align="center">
