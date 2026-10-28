@@ -39,8 +39,8 @@
       <th>Date</th>
       <th width="1%" nowrap>Venue</th>
       <th width="1%" nowrap>Type</th>
-      <th>Author Position</th>
       <th>Title</th>
+      <th>Code</th>
     </tr>
   </thead>
   <tbody>
@@ -54,10 +54,14 @@
         International<br>
         Conference
       </td>
-      <td align="center">1/5</td>
       <td>
         <a href="https://papers.miccai.org/miccai-2026/paper/6146_paper.pdf">
           Cross-Modal Concept Transfer: From ECG Signals to Images for Explainable Disease Prediction
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mldlcl2022/CMCT">
+          <img src="https://cdn.simpleicons.org/github" width="20" height="20">
         </a>
       </td>
     </tr>
