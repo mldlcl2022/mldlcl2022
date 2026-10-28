@@ -153,6 +153,16 @@
 
 <br>
 
+<h3> 🧗 Projects</h3>
+<p><em>Coming Soon</em></p>
+
+<br>
+
+<h3>🏆 Awards</h3>
+<p><em>Coming Soon</em></p>
+
+<br>
+
 <h3>🧑‍💻 Experience</h3>
 <table style="width:100%; border-collapse:collapse; text-align:left; font-family:Arial, sans-serif;">
   <thead>
