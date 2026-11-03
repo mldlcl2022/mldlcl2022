@@ -16,10 +16,10 @@
 <br>
 
 <h3>🧑‍🎓 Education</h3>
-<table style="width:100%; border-collapse:collapse; text-align:left; font-family:Arial, sans-serif;">
+<table width="100%">
   <thead>
-    <tr style="border-bottom: 2px solid #ddd;">
-      <th style="padding:10px;">Date</th>
+    <tr>
+      <th>Date</th>
       <th style="padding:10px;">Degree</th>
       <th style="padding:10px;">Major</th>
       <th style="padding:10px;">University</th>
@@ -153,11 +153,6 @@
 
 <br>
 
-<h3> 🧗 Projects</h3>
-<p><em>Coming Soon</em></p>
-
-<br>
-
 <h3>🏆 Awards</h3>
 <p><em>Coming Soon</em></p>
 
@@ -220,3 +215,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<h3> 🧗 Projects</h3>
+<p><em>Coming Soon</em></p>
