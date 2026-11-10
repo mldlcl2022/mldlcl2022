@@ -1,160 +1,168 @@
-<h1>Hi there 👋</h1>
-<p>I'm Chan Lee (이찬). 🇰🇷</p>
-<p>
-  I graduated from Pusan National University (PNU) with a Master's degree in Artificial Intelligence in February 2026 and presented my research as a poster at MICCAI 2026 in September.
-</p>
-<p>
-  I'm currently seeking new career opportunities and looking forward to the next chapter of my journey.
-</p>
-<p>
-  I have explored a broad range of AI research areas, including multimodal learning, explainable AI (XAI), self-supervised learning, self-supervised multimodal learning, time-series analysis, anomaly detection, object detection, and object tracking.
-</p>
-<p>
-  I hope to leverage my diverse AI background to develop practical solutions that make a meaningful impact.
-</p>
+<!--인사말-->
+  <h1>Hi there 👋</h1>
+  <p>I'm Chan Lee (이찬). 🇰🇷</p>
+  <p>
+    I graduated from Pusan National University (PNU) with a Master's degree in Artificial Intelligence in February 2026 and presented my research as a poster at MICCAI 2026 in September.
+  </p>
+  <p>
+    I'm currently seeking new career opportunities and looking forward to the next chapter of my journey.
+  </p>
+  <p>
+    I have explored a broad range of AI research areas, including multimodal learning, explainable AI (XAI), self-supervised learning, self-supervised multimodal learning, time-series analysis, anomaly detection, object detection, and object tracking.
+  </p>
+  <p>
+    I hope to leverage my diverse AI background to develop practical solutions that make a meaningful impact.
+  </p>
+<!--인사말-->
 
 <br>
 
-<h3>🧑‍🎓 Education</h3>
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th style="padding:10px;">Degree</th>
-      <th style="padding:10px;">Major</th>
-      <th style="padding:10px;">University</th>
-      <th style="padding:10px;">Lab</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:10px;">2024.03 ~ 2026.02</td>
-      <td style="padding:10px;" align="center">M.S.</td>
-      <td style="padding:10px;">Artificial Intelligence</td>
-      <td style="padding:10px;">Pusan National University (PNU)</td>
-      <td style="padding:10px;">
-        <a href="https://www.k-medai.com/">Medical AI Lab (MAIL)</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2015.03 ~ 2022.02</td>
-      <td style="padding:10px;" align="center">B.S.</td>
-      <td style="padding:10px;">Statistics</td>
-      <td style="padding:10px;">Changwon National University (CWNU)</td>
-      <td style="padding:10px;" align="center">-</td>
-    </tr>
-  </tbody>
-</table>
+<!--학력 사항-->
+  <h3>🧑‍🎓 Education</h3>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th style="padding:10px;">Degree</th>
+        <th style="padding:10px;">Major</th>
+        <th style="padding:10px;">University</th>
+        <th style="padding:10px;">Lab</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding:10px;">2024.03 ~ 2026.02</td>
+        <td style="padding:10px;" align="center">M.S.</td>
+        <td style="padding:10px;">Artificial Intelligence</td>
+        <td style="padding:10px;">Pusan National University (PNU)</td>
+        <td style="padding:10px;">
+          <a href="https://www.k-medai.com/">Medical AI Lab (MAIL)</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:10px;">2015.03 ~ 2022.02</td>
+        <td style="padding:10px;" align="center">B.S.</td>
+        <td style="padding:10px;">Statistics</td>
+        <td style="padding:10px;">Changwon National University (CWNU)</td>
+        <td style="padding:10px;" align="center">-</td>
+      </tr>
+    </tbody>
+  </table>
+<!--학력 사항-->
 
 <br>
 
-<h3>📄 Publications</h3>
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th width="1%" nowrap>Venue</th>
-      <th width="1%" nowrap>Type</th>
-      <th>Title</th>
-      <th>Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td nowrap>2026.09</td>
-      <td nowrap>
-        MICCAI 2026<br>
-        <strong>Early Accept</strong> (within Top 9% of submissions)
-      </td>
-      <td nowrap>
-        International<br>
-        Conference
-      </td>
-      <td>
-        <a href="https://papers.miccai.org/miccai-2026/paper/6146_paper.pdf">
-          Cross-Modal Concept Transfer: From ECG Signals to Images for Explainable Disease Prediction
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mldlcl2022/CMCT">
-          <img src="https://cdn.simpleicons.org/github" width="20" height="20">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td nowrap>2026.09</td>
-      <td nowrap>KTCP 2026, 32(9)</td>
-      <td nowrap>
-        Korean<br>
-        Journal
-      </td>
-      <td>
-        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381127">
-          Multi-View Self-Supervised Learning Method Comparison with ECG Signals and Images
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mldlcl2022/ECG_SSML">
-          <img src="https://cdn.simpleicons.org/github" width="20" height="20">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td nowrap>2026.09</td>
-      <td nowrap>KTCP 2026, 32(9)</td>
-      <td nowrap>
-        Korean<br>
-        Journal
-      </td>
-      <td>
-        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381133">
-          The Image Transformation Method for ECG Signals: Proposal and Performance Comparison with Time-Series Representations
-        </a>
-      </td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <td nowrap>2024.12</td>
-      <td nowrap>
-        KSC 2024<br>
-        <strong>Outstanding Presentation Paper Award</strong>
-      </td>
-      <td nowrap>
-        Korean<br>
-        Conference
-      </td>
-      <td>
-        <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041844">
-          Effectiveness of Transforming ECG Signal into Image with Image-Based Pre-trained Model
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mldlcl2022/ES2I">
-          <img src="https://cdn.simpleicons.org/github" width="20" height="20">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td nowrap>2024.06</td>
-      <td nowrap>KCC 2024</td>
-      <td nowrap>
-        Korean<br>
-        Conference
-      </td>
-      <td>
-        <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862112">
-          Effects of Soft Label and Proposing Regression Smoothing on Molecular Graph Neural Networks
-        </a>
-      </td>
-      <td align="center">-</td>
-    </tr>
-  </tbody>
-</table>
+<!--논문-->
+  <h3>📄 Publications</h3>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th width="1%" nowrap>Venue</th>
+        <th width="1%" nowrap>Type</th>
+        <th>Title</th>
+        <th>Code</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td nowrap>2026.09</td>
+        <td nowrap>
+          MICCAI 2026<br>
+          <strong>Early Accept</strong> (within Top 9% of submissions)
+        </td>
+        <td nowrap>
+          International<br>
+          Conference
+        </td>
+        <td>
+          <a href="https://papers.miccai.org/miccai-2026/paper/6146_paper.pdf">
+            Cross-Modal Concept Transfer: From ECG Signals to Images for Explainable Disease Prediction
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/mldlcl2022/CMCT">
+            <img src="https://cdn.simpleicons.org/github" width="20" height="20">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td nowrap>2026.09</td>
+        <td nowrap>KTCP 2026, 32(9)</td>
+        <td nowrap>
+          Korean<br>
+          Journal
+        </td>
+        <td>
+          <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381127">
+            Multi-View Self-Supervised Learning Method Comparison with ECG Signals and Images
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/mldlcl2022/ECG_SSML">
+            <img src="https://cdn.simpleicons.org/github" width="20" height="20">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td nowrap>2026.09</td>
+        <td nowrap>KTCP 2026, 32(9)</td>
+        <td nowrap>
+          Korean<br>
+          Journal
+        </td>
+        <td>
+          <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003381133">
+            The Image Transformation Method for ECG Signals: Proposal and Performance Comparison with Time-Series Representations
+          </a>
+        </td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <td nowrap>2024.12</td>
+        <td nowrap>
+          KSC 2024<br>
+          <strong>Outstanding Presentation Paper Award</strong>
+        </td>
+        <td nowrap>
+          Korean<br>
+          Conference
+        </td>
+        <td>
+          <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041844">
+            Effectiveness of Transforming ECG Signal into Image with Image-Based Pre-trained Model
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/mldlcl2022/ES2I">
+            <img src="https://cdn.simpleicons.org/github" width="20" height="20">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td nowrap>2024.06</td>
+        <td nowrap>KCC 2024</td>
+        <td nowrap>
+          Korean<br>
+          Conference
+        </td>
+        <td>
+          <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862112">
+            Effects of Soft Label and Proposing Regression Smoothing on Molecular Graph Neural Networks
+          </a>
+        </td>
+        <td align="center">-</td>
+      </tr>
+    </tbody>
+  </table>
+<!--논문-->
 
 <br>
 
+<!--수상-->
 <h3>🏆 Awards</h3>
 <p><em>Coming Soon</em></p>
+<!--수상-->
 
 <br>
 
