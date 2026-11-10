@@ -261,5 +261,10 @@
 
 <br>
 
-<h3> 🧗 Projects</h3>
+<h3>🧗 Projects</h3>
+<p><em>Coming Soon</em></p>
+
+<br>
+
+<h3>📜 Certifications</h3>
 <p><em>Coming Soon</em></p>
