@@ -31,7 +31,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>2024.03 ~ 2026.02</td>
+        <td align="center">2024.03 ~ 2026.02</td>
         <td align="center">M.S.</td>
         <td>Artificial Intelligence</td>
         <td>Pusan National University (PNU)</td>
@@ -40,7 +40,7 @@
         </td>
       </tr>
       <tr>
-        <td>2015.03 ~ 2022.02</td>
+        <td align="center">2015.03 ~ 2022.02</td>
         <td align="center">B.S.</td>
         <td>Statistics</td>
         <td>Changwon National University (CWNU)</td>
