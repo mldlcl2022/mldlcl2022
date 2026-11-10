@@ -161,7 +161,47 @@
 
 <!--수상-->
 <h3>🏆 Awards</h3>
-<p><em>Coming Soon</em></p>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="1%" nowrap>Date</th>
+        <th width="1%" nowrap>Award</th>
+        <th>Competition</th>
+        <th>Arawding Organization</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td nowrap align="center">2025.11.06</td>
+        <td nowrap>
+          장려상<br>
+          Encouragement Award
+        </td>
+        <td>
+          2025 학생주도 산학협력프로젝트 경진대회<br>
+          2025 Student-Led Industry-Academia Collaboration Project Competition
+        </td>
+        <td>
+          부산대학교 AI 대학원<br>
+          Graduate School of AI, Pusan National University (PNU)
+        </td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2025.07.18</td>
+        <td nowrap>
+          우수상, 특별상<br>
+          Excellence, Special Award
+        </td>
+        <td>
+          MEDICAL HACK 2025
+        </td>
+        <td>
+          부산대학교병원<br>
+          Pusan National University Hospital (PNUH)
+        </td>
+      </tr>
+    </tbody>
+  </table>
 <!--수상-->
 
 <br>
