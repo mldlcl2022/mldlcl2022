@@ -23,28 +23,28 @@
     <thead>
       <tr>
         <th>Date</th>
-        <th style="padding:10px;">Degree</th>
-        <th style="padding:10px;">Major</th>
-        <th style="padding:10px;">University</th>
-        <th style="padding:10px;">Lab</th>
+        <th>Degree</th>
+        <th>Major</th>
+        <th>University</th>
+        <th>Lab</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding:10px;">2024.03 ~ 2026.02</td>
-        <td style="padding:10px;" align="center">M.S.</td>
-        <td style="padding:10px;">Artificial Intelligence</td>
-        <td style="padding:10px;">Pusan National University (PNU)</td>
-        <td style="padding:10px;">
+        <td>2024.03 ~ 2026.02</td>
+        <td align="center">M.S.</td>
+        <td>Artificial Intelligence</td>
+        <td>Pusan National University (PNU)</td>
+        <td>
           <a href="https://www.k-medai.com/">Medical AI Lab (MAIL)</a>
         </td>
       </tr>
       <tr>
-        <td style="padding:10px;">2015.03 ~ 2022.02</td>
-        <td style="padding:10px;" align="center">B.S.</td>
-        <td style="padding:10px;">Statistics</td>
-        <td style="padding:10px;">Changwon National University (CWNU)</td>
-        <td style="padding:10px;" align="center">-</td>
+        <td>2015.03 ~ 2022.02</td>
+        <td align="center">B.S.</td>
+        <td>Statistics</td>
+        <td>Changwon National University (CWNU)</td>
+        <td align="center">-</td>
       </tr>
     </tbody>
   </table>
