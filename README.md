@@ -66,7 +66,7 @@
     </thead>
     <tbody>
       <tr>
-        <td nowrap>2026.09</td>
+        <td nowrap align="center">2026.09</td>
         <td nowrap>
           MICCAI 2026<br>
           <strong>Early Accept</strong> (within Top 9% of submissions)
@@ -87,7 +87,7 @@
         </td>
       </tr>
       <tr>
-        <td nowrap>2026.09</td>
+        <td nowrap align="center">2026.09</td>
         <td nowrap>KTCP 2026, 32(9)</td>
         <td nowrap>
           Korean<br>
@@ -105,7 +105,7 @@
         </td>
       </tr>
       <tr>
-        <td nowrap>2026.09</td>
+        <td nowrap align="center">2026.09</td>
         <td nowrap>KTCP 2026, 32(9)</td>
         <td nowrap>
           Korean<br>
@@ -119,7 +119,7 @@
         <td align="center">-</td>
       </tr>
       <tr>
-        <td nowrap>2024.12</td>
+        <td nowrap align="center">2024.12</td>
         <td nowrap>
           KSC 2024<br>
           <strong>Outstanding Presentation Paper Award</strong>
@@ -140,7 +140,7 @@
         </td>
       </tr>
       <tr>
-        <td nowrap>2024.06</td>
+        <td nowrap align="center">2024.06</td>
         <td nowrap>KCC 2024</td>
         <td nowrap>
           Korean<br>
