@@ -173,32 +173,27 @@
     <tbody>
       <tr>
         <td nowrap align="center">2025.11.06</td>
-        <td nowrap>
-          장려상<br>
-          Encouragement Award
-        </td>
-        <td>
-          2025 학생주도 산학협력프로젝트 경진대회<br>
-          2025 Student-Led Industry-Academia Collaboration Project Competition
-        </td>
-        <td>
-          부산대학교 AI 대학원<br>
-          Graduate School of AI, Pusan National University (PNU)
-        </td>
+        <td nowrap>Encouragement Award</td>
+        <td>2025 Student-Led Industry-Academia Collaboration Project Competition</td>
+        <td>Graduate School of AI, Pusan National University (PNU)</td>
       </tr>
       <tr>
         <td nowrap align="center">2025.07.18</td>
-        <td nowrap>
-          우수상, 특별상<br>
-          Excellence, Special Award
-        </td>
-        <td>
-          MEDICAL HACK 2025
-        </td>
-        <td>
-          부산대학교병원<br>
-          Pusan National University Hospital (PNUH)
-        </td>
+        <td nowrap>Excellence Award, Special Award</td>
+        <td>MEDICAL HACK 2025</td>
+        <td>Pusan National University Hospital (PNUH)</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2025.02.03</td>
+        <td nowrap>Outstanding Paper Presentation Award</td>
+        <td>KSC 2024</td>
+        <td>Korean Institute of Information Scientists and Engineers</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2022.09.30</td>
+        <td nowrap>Outstanding Project Award</td>
+        <td>POSCO Youth AI·Bigdata Academy</td>
+        <td>POSCO HRD & POSTECH</td>
       </tr>
     </tbody>
   </table>
