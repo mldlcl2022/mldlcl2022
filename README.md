@@ -201,63 +201,64 @@
 
 <br>
 
+<!--경험 및 경력-->
 <h3>🧑‍💻 Experience</h3>
-<table style="width:100%; border-collapse:collapse; text-align:left; font-family:Arial, sans-serif;">
-  <thead>
-    <tr style="border-bottom: 2px solid #ddd;">
-      <th style="padding:10px;">Date</th>
-      <th style="padding:10px;">Position</th>
-      <th style="padding:10px;">Organization</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:10px;">2024.01 ~ 2026.02</td>
-      <td style="padding:10px;">Master's Student Researcher</td>
-      <td style="padding:10px;">Medical AI Lab, PNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2025.01 ~ 2025.06</td>
-      <td style="padding:10px;">Mentor</td>
-      <td style="padding:10px;">Capstone Design Program, PNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2025.04 ~ 2025.05</td>
-      <td style="padding:10px;">Teaching Assistant</td>
-      <td style="padding:10px;">LG Electronics DIC Program, PNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2024.07 ~ 2024.12</td>
-      <td style="padding:10px;">Mentor</td>
-      <td style="padding:10px;">Capstone Design Program, PNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2024.06 ~ 2024.07</td>
-      <td style="padding:10px;">Project Teaching Assistant</td>
-      <td style="padding:10px;">LG Electronics DIC Program, PNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2024.04 ~ 2024.05</td>
-      <td style="padding:10px;">Teaching Assistant</td>
-      <td style="padding:10px;">LG Electronics DIC Program, PNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2023.05 ~ 2023.08</td>
-      <td style="padding:10px;">Trainee</td>
-      <td style="padding:10px;">Changwon AI Academy, Changwon City & CWNU</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2022.07 ~ 2022.09</td>
-      <td style="padding:10px;">Trainee</td>
-      <td style="padding:10px;">POSCO Youth AI·Bigdata Academy, POSCO HRD & POSTECH</td>
-    </tr>
-    <tr>
-      <td style="padding:10px;">2021.09 ~ 2021.12</td>
-      <td style="padding:10px;">Public Data Intern</td>
-      <td style="padding:10px;">Public Data Youth Internship Program, NIA</td>
-    </tr>
-  </tbody>
-</table>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="1%" nowrap>Date</th>
+        <th width="1%" nowrap>Position</th>
+        <th width="1%" nowrap>Organization</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td nowrap align="center">2024.01 ~ 2026.02</td>
+        <td nowrap>Master's Student Researcher</td>
+        <td nowrap>Medical AI Lab, PNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2025.01 ~ 2025.06</td>
+        <td nowrap>Mentor</td>
+        <td nowrap>Capstone Design Program, PNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2025.04 ~ 2025.05</td>
+        <td nowrap>Teaching Assistant</td>
+        <td nowrap>LG Electronics DIC Program, PNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2024.07 ~ 2024.12</td>
+        <td nowrap>Mentor</td>
+        <td nowrap>Capstone Design Program, PNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2024.06 ~ 2024.07</td>
+        <td nowrap>Project Teaching Assistant</td>
+        <td nowrap>LG Electronics DIC Program, PNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2024.04 ~ 2024.05</td>
+        <td nowrap>Teaching Assistant</td>
+        <td nowrap>LG Electronics DIC Program, PNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2023.05 ~ 2023.08</td>
+        <td nowrap>Trainee</td>
+        <td nowrap>Changwon AI Academy, Changwon City & CWNU</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2022.07 ~ 2022.09</td>
+        <td nowrap>Trainee</td>
+        <td nowrap>POSCO Youth AI·Bigdata Academy, POSCO HRD & POSTECH</td>
+      </tr>
+      <tr>
+        <td nowrap align="center">2021.09 ~ 2021.12</td>
+        <td nowrap>Public Data Intern</td>
+        <td nowrap>Public Data Youth Internship Program, NIA</td>
+      </tr>
+    </tbody>
+  </table>
 
 <br>
 
