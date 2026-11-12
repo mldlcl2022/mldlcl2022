@@ -267,5 +267,21 @@
 
 <br>
 
-<h3>📜 Certifications</h3>
-<p><em>Coming Soon</em></p>
+<!--자격증-->
+  <h3>📜 Certifications</h3>
+    <table width="100%">
+      <thead>
+        <tr>
+          <th width="1%" nowrap>Date</th>
+          <th width="1%" nowrap>Certification</th>
+          <th width="1%" nowrap>Issuing Organization</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td nowrap align="center">2024.12.20</td>
+          <td nowrap>Big-Data Analysis Engineer</td>
+          <td nowrap>Korea Data Agency(K-DATA)</td>
+        </tr>
+      </tbody>
+    </table>
