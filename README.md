@@ -272,16 +272,36 @@
     <table width="100%">
       <thead>
         <tr>
-          <th width="1%" nowrap>Date</th>
-          <th width="1%" nowrap>Certification</th>
-          <th width="1%" nowrap>Issuing Organization</th>
+          <th>Date</th>
+          <th>Certification</th>
+          <th>Issuing Organization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
+          <td nowrap align="center">2026.07.19</td>
+          <td nowrap>TOEIC Speaking IH(150)</td>
+          <td nowrap>Educational Testing Service (ETS)</td>
+        </tr>
+        <tr>
           <td nowrap align="center">2024.12.20</td>
           <td nowrap>Big-Data Analysis Engineer</td>
-          <td nowrap>Korea Data Agency(K-DATA)</td>
+          <td nowrap>Korea Data Agency (K-DATA)</td>
+        </tr>
+        <tr>
+          <td nowrap align="center">2022.06.24</td>
+          <td nowrap>SQL Developer (SQLD)</td>
+          <td>Korea Data Agency (K-DATA)</td>
+        </tr>
+        <tr>
+          <td nowrap align="center">2022.06.17</td>
+          <td nowrap>Advanced Data Analytics Semi-Professional (ADsP)</td>
+          <td>Korea Data Agency (K-DATA)</td>
+        </tr>
+        <tr>
+          <td nowrap align="center">2021.11.26</td>
+          <td nowrap>Engineer Information Processing</td>
+          <td>Human Resources Development Service of Korea (HRD Korea)</td>
         </tr>
       </tbody>
     </table>
