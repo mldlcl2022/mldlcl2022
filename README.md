@@ -69,7 +69,7 @@
         <td nowrap align="center">2026.09</td>
         <td nowrap>
           MICCAI 2026<br>
-          <strong>Early Accept</strong> (within Top 9% of submissions)
+          <strong>Early Accept</strong> (within top 9% of submissions)
         </td>
         <td nowrap>
           International<br>
@@ -259,11 +259,6 @@
       </tr>
     </tbody>
   </table>
-
-<br>
-
-<h3>🧗 Projects</h3>
-<p><em>Coming Soon</em></p>
 
 <br>
 
